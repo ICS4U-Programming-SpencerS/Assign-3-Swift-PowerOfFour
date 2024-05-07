@@ -1,0 +1,13 @@
+4 is a power of four.
+16 is a power of four.
+3 is not a power of four.
+5 is not a power of four.
+99 is not a power of four.
+2.3 is not a valid integer.
+hello world is not a valid integer.
+0 is not a power of four and is an invalid input.
+-2 is not a power of four and is an invalid input.
+-2.3 is not a valid integer.
+ is not a valid integer.
+2 hello world is not a valid integer.
+Maximum value from input file: 99
